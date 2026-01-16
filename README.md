@@ -46,13 +46,6 @@
 
 <br><br>
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=moraisgab&show_icons=true&theme=radical&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moraisgab&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
-</div>
-
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/moraisgab/moraisgab/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/moraisgab/moraisgab/output/github-contribution-grid-snake-dark.svg">
