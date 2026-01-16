@@ -17,7 +17,7 @@
   <a href="pz.gabrielmorais@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-070013?style=for-the-badge&logo=gmail&logoColor=3B0097" target="_blank">
   </a>
-  <a href="https://www.instagram.com/1.morais/" target="_blank">
+  <a href="mailto:https://www.instagram.com/1.morais/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-070013?style=for-the-badge&logo=instagram&logoColor=3B0097" target="_blank">
   </a>
 </div>
