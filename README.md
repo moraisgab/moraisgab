@@ -26,10 +26,6 @@
 
 ### Github Stats
 
-<p style="display: flex; align-items: flex-start; gap: 20px; margin-top: 5px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=moraisgab&show_icons=true&bg_color=070013&icon_color=3B0097&text_color=FFFFFF&title_color=FFFFFF&hide_title=true&hide=issues&border_color=2E005B" alt="Gabriel's GitHub Stats" style="margin-top:0;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moraisgab&layout=compact&bg_color=070013&title_color=FFFFFF&text_color=A0A0A0&hide_border=false&border_color=2E005B" alt="Top Languages" style="margin-top:0;" />
-</p>
 
 
 <div style="display: inline_block">
