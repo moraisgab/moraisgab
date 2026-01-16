@@ -44,7 +44,7 @@
   <img align="center" alt="GCP" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg">
 </div>
 
-<br><br>
+
 ### 📊 Commit Stats
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/moraisgab/moraisgab/output/github-contribution-grid-snake-dark.svg">
