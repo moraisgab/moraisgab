@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=4000&pause=1000&color=3B0097&width=500&lines=Gabriel+Morais;Future+Software+Engineer;Java+%7C+Cloud+%7C+IA" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=4000&pause=1000&color=3B0097&width=500&lines=Gabriel+Morais;Future+Software+Engineer;Java+%7C+Cloud+%7C+AI" alt="Typing SVG" /></a>
 
 <p align="left">
   Estudante de <b>Sistemas de Informação na FIAP</b> (Bolsista Integral ProUni). <br>
